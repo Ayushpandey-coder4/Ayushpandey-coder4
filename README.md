@@ -1,5 +1,7 @@
 👋 Hi, I'm Ayush Pandey
-
+<p align="center">
+  <img src="github-banner.png" width="100%" alt="Ayush Pandey GitHub Banner">
+</p>
 💻 BSc IT Student | Aspiring AI/ML Engineer | Developer
 
 I’m a BSc IT student who enjoys programming, solving problems, and building useful projects. I’m continuously learning and working towards a career in AI/ML engineering.
