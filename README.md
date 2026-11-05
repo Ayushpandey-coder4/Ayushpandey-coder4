@@ -43,10 +43,9 @@ A collection of C programming practice and beginner-to-intermediate examples.
 ---
 
 📊 GitHub Stats
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Ayushpandey-coder4&show_icons=true&theme=tokyonight)
 
-"GitHub Stats" (https://github-stats-extended.vercel.app/api?username=Ayushpandey-coder4&show_icons=true&theme=tokyonight&hide_border=true)
-
-"Top Languages" (https://github-stats-extended.vercel.app/api/top-langs/?username=Ayushpandey-coder4&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Ayushpandey-coder4&layout=compact&theme=tokyonight)
 
 🌐 Connect With Me
 
